@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Boundry
+  - EnemySpawn
+  - WeaponUpgrade
+  - WeaponBasic
+  - EnemyDestroy
+  - Enemy
+  - MotherShip
+  - EnemyLarge
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Game
+  - Background
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 455500607
+    locked: 0
+  - name: Effects
+    uniqueID: 446993017
+    locked: 0
+  - name: Game
+    uniqueID: 4050832919
+    locked: 0
